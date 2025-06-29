@@ -8,3 +8,7 @@ The system consists of two primary classes:
 1.	TradingAgent: Represents individual trading entities with learning capabilities
 2.	StockMarketSimulation: Manages the simulation environment and visualization
 
+
+![image](https://github.com/user-attachments/assets/dbe3b5eb-6928-4724-ae39-f2a70c120d81)
+
+
